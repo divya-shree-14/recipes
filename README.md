@@ -1,33 +1,41 @@
- #🍽️ Three Recipes
+# 🍽️ Recipes
 
-A simple collection of delicious recipes, bringing great food and easy cooking together.
+Discover simple recipes. Explore ingredients. Start cooking!
+A beginner-friendly recipe webpage built using HTML, featuring three delicious dishes with their descriptions, ingredients, and step-by-step preparation instructions.
 
-##📖 About the Project
-Three Recipes is a beginner-friendly web project built using HTML. It showcases three delicious recipes, each with a description, ingredients list, and step-by-step preparation instructions.
-##🍴 Recipes Featured
+## 🍴 Recipes
+🥞 1. Masala Dosa
+A classic South Indian dish featuring crispy dosa filled with spiced potato masala.
+🍫 2. Chocolate Mug Cake
+A soft and chocolatey dessert that's quick and easy to prepare.
+🍚 3. Vegetable Fried Rice
+A flavourful rice dish prepared with fresh vegetables and simple seasonings.
 
-🍚 Vegetable Fried Rice — A flavourful rice dish loaded with fresh vegetables.
-🍫 Chocolate Mug Cake — A quick, soft, and chocolatey dessert.
-🥞 Masala Dosa — A classic South Indian dish with crispy dosa and spiced potato filling.
 
-##✨ Features
 
-Three unique recipes in one place
-Clear ingredient lists
-Easy-to-follow cooking instructions
-Simple and structured webpage layout
+## ✨ Features
 
-##🛠️ Built With
+Three delicious recipes in one webpage
+Recipe descriptions
+Ingredients lists
+Step-by-step preparation instructions
+Simple and easy-to-navigate layout
 
-HTML5 — For webpage structure and content
+## 🛠️ Technology Used
 
-##🚀 How to View
+HTML5
+
+## 🚀 Getting Started
 
 Clone or download this repository.
 Open the project folder.
-Open index.html in any web browser.
+Open index.html in your web browser.
 
-##🎯 Project Purpose
-This project was created to practice HTML fundamentals and learn how to organize and present content on a webpage.
+## 🎯 Learning Objectives
 
-Made with ❤️ by G Divya Shree
+Practise HTML fundamentals
+Organize webpage content using headings and lists
+Present information in a clear, structured format
+
+
+## Created by G Divya Shree 💗
