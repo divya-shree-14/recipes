@@ -3,10 +3,10 @@
 Discover simple recipes. Explore ingredients. Start cooking!
 A beginner-friendly recipe webpage built using HTML, featuring three delicious dishes with their descriptions, ingredients, and step-by-step preparation instructions.
 
-## 🍴 Recipes
+## 🍴 Recipes Featured
 🥞 1. Masala Dosa<br>
 A classic South Indian dish featuring crispy dosa filled with spiced potato masala.<br>
-🍫 2. Chocolate Mug Cake<br>
+🧋 2. Chocolate Milkshake<br>
 A soft and chocolatey dessert that's quick and easy to prepare.<br>
 🍚 3. Vegetable Fried Rice<br>
 A flavourful rice dish prepared with fresh vegetables and simple seasonings.<br>
